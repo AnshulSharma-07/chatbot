@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Chatbot Backend",
+  "description": "A production-quality Java Spring Boot project simulation for a WhatsApp chatbot webhook. Includes a live simulator to test the webhook logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
